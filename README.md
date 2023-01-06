@@ -1,8 +1,8 @@
-- Hi, I’m @voidplanet AKA Kameron. He/Him/His pronouns.
-- I’m interested in software development & web development.
-- I’m currently learning Java, JavaScript, Git, and HTML/CSS.
-- I’m a Sophomore in college at the moment.
-- How to reach me: kmrnharrison@gmail.com OR charr128@fiu.edu
+- Hi, I’m @kameron-h AKA Kameron. He/Him/His pronouns.
+- I’m interested in app & web development.
+- I’m currently learning Java, JavaScript, and HTML/CSS.
+- I’m a Junior in college at the moment.
+- How to reach me: kmrnharrison@gmail.com (Personal) OR kharr154@fiu.edu (School)
 
 <!---
 voidplanet/voidplanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
